@@ -18,7 +18,7 @@ public class Program {
 		}
 
 		System.out.println("End of program.");
-
+		
 		sc.close();
 	}
 }
